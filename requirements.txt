@@ -1,0 +1,12 @@
+torch==2.10.0
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+tyro==1.0.5
+seaborn==0.13.2
+statsmodels==0.14.6
+ConfigSpace==1.2.2
+pyrfr==0.9.0
+pingouin==0.6.1
+PyALE==1.2.0
+pyarrow==23.0.0
